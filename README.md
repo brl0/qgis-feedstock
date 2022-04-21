@@ -156,6 +156,23 @@ mamba repoquery whoneeds qgis --channel conda-forge
 mamba repoquery depends qgis --channel conda-forge
 ```
 
+```
+mamba search qgis --channel conda-forge
+```
+
+Alternatively, `mamba repoquery` may provide more information:
+
+```
+# Search all versions available on your platform:
+mamba repoquery search qgis --channel conda-forge
+
+# List packages depending on `qgis`:
+mamba repoquery whoneeds qgis --channel conda-forge
+
+# List dependencies of `qgis`:
+mamba repoquery depends qgis --channel conda-forge
+```
+
 # About conda-forge
 
 [![Powered by
