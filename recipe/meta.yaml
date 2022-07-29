@@ -105,7 +105,7 @@ requirements:
     - postgresql >=14,<15
     - psycopg2
     # Point Clouds
-    - pdal
+    - pdal >2
     - laz-perf
   run:
     - python
@@ -153,7 +153,7 @@ requirements:
     - yaml
     - owslib
     - pyqtwebkit
-    - pdal
+    - pdal >2
     - laz-perf
 
   run_constrained:   # [osx]
