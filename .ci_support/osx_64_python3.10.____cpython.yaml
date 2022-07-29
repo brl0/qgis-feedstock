@@ -51,7 +51,7 @@ proj:
 python:
 - 3.10.* *_cpython
 qt:
-- '5.12'
+- '5.15.4'
 qtkeychain:
 - '0.12'
 sqlite:
