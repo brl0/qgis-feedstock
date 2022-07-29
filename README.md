@@ -1,4 +1,5 @@
-# About qgis
+About qgis
+==========
 
 Home: http://qgis.org/
 
@@ -18,16 +19,19 @@ project of the Open Source Geospatial Foundation (OSGeo). It runs on
 Linux, Unix, Mac OSX, Windows and Android and supports numerous vector,
 raster, and database formats and functionalities.
 
-# Current build status
+
+Current build status
+====================
+
 
 <table>
-
+    
   <tr>
     <td>Azure</td>
     <td>
       <details>
         <summary>
-          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=4674&branchName=main">
+          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=&branchName=main">
             <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/qgis-feedstock?branchName=main">
           </a>
         </summary>
@@ -36,63 +40,63 @@ raster, and database formats and functionalities.
           <tbody><tr>
               <td>linux_64_python3.10.____cpython</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=4674&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/qgis-feedstock?branchName=main&jobName=linux&configuration=linux_64_python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>linux_64_python3.8.____cpython</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=4674&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/qgis-feedstock?branchName=main&jobName=linux&configuration=linux_64_python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>linux_64_python3.9.____cpython</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=4674&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/qgis-feedstock?branchName=main&jobName=linux&configuration=linux_64_python3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64_python3.10.____cpython</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=4674&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/qgis-feedstock?branchName=main&jobName=osx&configuration=osx_64_python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64_python3.8.____cpython</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=4674&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/qgis-feedstock?branchName=main&jobName=osx&configuration=osx_64_python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64_python3.9.____cpython</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=4674&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/qgis-feedstock?branchName=main&jobName=osx&configuration=osx_64_python3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>win_64_python3.10.____cpython</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=4674&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/qgis-feedstock?branchName=main&jobName=win&configuration=win_64_python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>win_64_python3.8.____cpython</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=4674&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/qgis-feedstock?branchName=main&jobName=win&configuration=win_64_python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>win_64_python3.9.____cpython</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=4674&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/qgis-feedstock?branchName=main&jobName=win&configuration=win_64_python3.9.____cpython" alt="variant">
                 </a>
               </td>
@@ -104,13 +108,15 @@ raster, and database formats and functionalities.
   </tr>
 </table>
 
-# Current release info
+Current release info
+====================
 
-| Name                                                                                                         | Downloads                                                                                                         | Version                                                                                                         | Platforms                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
 | [![Conda Recipe](https://img.shields.io/badge/recipe-qgis-green.svg)](https://anaconda.org/conda-forge/qgis) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/qgis.svg)](https://anaconda.org/conda-forge/qgis) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/qgis.svg)](https://anaconda.org/conda-forge/qgis) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/qgis.svg)](https://anaconda.org/conda-forge/qgis) |
 
-# Installing qgis
+Installing qgis
+===============
 
 Installing `qgis` from the `conda-forge` channel can be achieved by adding `conda-forge` to your channels with:
 
@@ -156,24 +162,9 @@ mamba repoquery whoneeds qgis --channel conda-forge
 mamba repoquery depends qgis --channel conda-forge
 ```
 
-```
-mamba search qgis --channel conda-forge
-```
 
-Alternatively, `mamba repoquery` may provide more information:
-
-```
-# Search all versions available on your platform:
-mamba repoquery search qgis --channel conda-forge
-
-# List packages depending on `qgis`:
-mamba repoquery whoneeds qgis --channel conda-forge
-
-# List dependencies of `qgis`:
-mamba repoquery depends qgis --channel conda-forge
-```
-
-# About conda-forge
+About conda-forge
+=================
 
 [![Powered by
 NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](https://numfocus.org)
@@ -181,7 +172,7 @@ NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=fl
 conda-forge is a community-led conda channel of installable packages.
 In order to provide high-quality builds, the process has been automated into the
 conda-forge GitHub organization. The conda-forge organization contains one repository
-for each of the installable packages. Such a repository is known as a _feedstock_.
+for each of the installable packages. Such a repository is known as a *feedstock*.
 
 A feedstock is made up of a conda recipe (the instructions on what and how to build
 the package) and the necessary configurations for automatic building using freely
@@ -195,23 +186,26 @@ channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
 [conda-smithy](https://github.com/conda-forge/conda-smithy) has been developed.
-Using the `conda-forge.yml` within this repository, it is possible to re-render all of
-this feedstock's supporting files (e.g. the CI configuration files) with `conda smithy rerender`.
+Using the ``conda-forge.yml`` within this repository, it is possible to re-render all of
+this feedstock's supporting files (e.g. the CI configuration files) with ``conda smithy rerender``.
 
 For more information please check the [conda-forge documentation](https://conda-forge.org/docs/).
 
-# Terminology
+Terminology
+===========
 
 **feedstock** - the conda recipe (raw material), supporting scripts and CI configuration.
 
 **conda-smithy** - the tool which helps orchestrate the feedstock.
-Its primary use is in the construction of the CI `.yml` files
-and simplify the management of _many_ feedstocks.
+                   Its primary use is in the construction of the CI ``.yml`` files
+                   and simplify the management of *many* feedstocks.
 
 **conda-forge** - the place where the feedstock and smithy live and work to
-produce the finished article (built conda distributions)
+                  produce the finished article (built conda distributions)
 
-# Updating qgis-feedstock
+
+Updating qgis-feedstock
+=======================
 
 If you would like to improve the qgis recipe or build a new
 package version, please fork this repository and submit a PR. Upon submission,
@@ -226,17 +220,18 @@ on branches in forks and branches in the main repository should only be used to
 build distinct package versions.
 
 In order to produce a uniquely identifiable distribution:
+ * If the version of a package **is not** being increased, please add or increase
+   the [``build/number``](https://docs.conda.io/projects/conda-build/en/latest/resources/define-metadata.html#build-number-and-string).
+ * If the version of a package **is** being increased, please remember to return
+   the [``build/number``](https://docs.conda.io/projects/conda-build/en/latest/resources/define-metadata.html#build-number-and-string)
+   back to 0.
 
-- If the version of a package **is not** being increased, please add or increase
-  the [`build/number`](https://docs.conda.io/projects/conda-build/en/latest/resources/define-metadata.html#build-number-and-string).
-- If the version of a package **is** being increased, please remember to return
-  the [`build/number`](https://docs.conda.io/projects/conda-build/en/latest/resources/define-metadata.html#build-number-and-string)
-  back to 0.
+Feedstock Maintainers
+=====================
 
-# Feedstock Maintainers
+* [@SrNetoChan](https://github.com/SrNetoChan/)
+* [@ceholden](https://github.com/ceholden/)
+* [@gillins](https://github.com/gillins/)
+* [@kmuehlbauer](https://github.com/kmuehlbauer/)
+* [@ocefpaf](https://github.com/ocefpaf/)
 
-- [@SrNetoChan](https://github.com/SrNetoChan/)
-- [@ceholden](https://github.com/ceholden/)
-- [@gillins](https://github.com/gillins/)
-- [@kmuehlbauer](https://github.com/kmuehlbauer/)
-- [@ocefpaf](https://github.com/ocefpaf/)
