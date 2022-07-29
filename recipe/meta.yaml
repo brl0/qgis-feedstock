@@ -86,7 +86,7 @@ requirements:
     - qscintilla2
     - qca
     - qjson
-    - qwt <6.2.0
+    - qwt
     - qwtpolar
     - qtkeychain
     - qtlocation
@@ -118,7 +118,7 @@ requirements:
     - qscintilla2
     - qca
     - qjson
-    - qwt <6.2.0
+    - qwt
     - qwtpolar
     - qtkeychain
     - qtlocation
